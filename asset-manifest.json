@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-arcgis-rest-workshop/static/css/main.f6b0389c.chunk.css",
+    "main.css": "/react-arcgis-rest-workshop/static/css/main.7a2c22de.chunk.css",
     "main.js": "/react-arcgis-rest-workshop/static/js/main.64f621d3.chunk.js",
     "main.js.map": "/react-arcgis-rest-workshop/static/js/main.64f621d3.chunk.js.map",
     "runtime-main.js": "/react-arcgis-rest-workshop/static/js/runtime-main.f5ca2cc2.js",
@@ -9,17 +9,18 @@
     "static/js/2.d9031ca8.chunk.js": "/react-arcgis-rest-workshop/static/js/2.d9031ca8.chunk.js",
     "static/js/2.d9031ca8.chunk.js.map": "/react-arcgis-rest-workshop/static/js/2.d9031ca8.chunk.js.map",
     "index.html": "/react-arcgis-rest-workshop/index.html",
-    "precache-manifest.b9ecd1408414de8c62a84af751340354.js": "/react-arcgis-rest-workshop/precache-manifest.b9ecd1408414de8c62a84af751340354.js",
+    "precache-manifest.c874757dd166fcf25006079b8578f446.js": "/react-arcgis-rest-workshop/precache-manifest.c874757dd166fcf25006079b8578f446.js",
     "service-worker.js": "/react-arcgis-rest-workshop/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/react-arcgis-rest-workshop/static/css/2.de424728.chunk.css.map",
-    "static/css/main.f6b0389c.chunk.css.map": "/react-arcgis-rest-workshop/static/css/main.f6b0389c.chunk.css.map",
-    "static/js/2.d9031ca8.chunk.js.LICENSE.txt": "/react-arcgis-rest-workshop/static/js/2.d9031ca8.chunk.js.LICENSE.txt"
+    "static/css/main.7a2c22de.chunk.css.map": "/react-arcgis-rest-workshop/static/css/main.7a2c22de.chunk.css.map",
+    "static/js/2.d9031ca8.chunk.js.LICENSE.txt": "/react-arcgis-rest-workshop/static/js/2.d9031ca8.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/react-arcgis-rest-workshop/static/media/Banner9.161d7ceb.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f5ca2cc2.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.d9031ca8.chunk.js",
-    "static/css/main.f6b0389c.chunk.css",
+    "static/css/main.7a2c22de.chunk.css",
     "static/js/main.64f621d3.chunk.js"
   ]
 }

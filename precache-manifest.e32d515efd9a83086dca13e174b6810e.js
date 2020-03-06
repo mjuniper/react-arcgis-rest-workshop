@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "02aa38c676c9da61b722a234e525b9b1",
+    "revision": "8b331863f8d350e60c548dfdf4266558",
     "url": "/react-arcgis-rest-workshop/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-arcgis-rest-workshop/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "c538920324f4efa7ff6e",
+    "revision": "2af7beefc42a9e7ed82d",
     "url": "/react-arcgis-rest-workshop/static/css/main.f6b0389c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-arcgis-rest-workshop/static/js/2.dea961c4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c538920324f4efa7ff6e",
-    "url": "/react-arcgis-rest-workshop/static/js/main.a8af4181.chunk.js"
+    "revision": "2af7beefc42a9e7ed82d",
+    "url": "/react-arcgis-rest-workshop/static/js/main.8681cf57.chunk.js"
   },
   {
     "revision": "36b1409264a1b88d8b15",

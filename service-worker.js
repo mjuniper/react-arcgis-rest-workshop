@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-arcgis-rest-workshop/precache-manifest.e32d515efd9a83086dca13e174b6810e.js"
+  "/react-arcgis-rest-workshop/precache-manifest.c6451df454b4bbf65dded232d7f3c9f6.js"
 );
 
 self.addEventListener('message', (event) => {

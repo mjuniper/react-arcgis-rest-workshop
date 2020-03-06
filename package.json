@@ -2,7 +2,7 @@
   "name": "react-arcgis-rest-workshop",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://myusername.github.io/react-arcgis-rest-workshop",
+  "homepage": "https://mjuniper.github.io/react-arcgis-rest-workshop",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
